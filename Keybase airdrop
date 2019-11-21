@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ejuc98btc on github.
+  * I am ejuc98 (https://keybase.io/ejuc98) on keybase.
+  * I have a public key ASCvODWY6maoTsL-LLHqOVrqW3IhT0IQslCaPEJjPS39CAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120af383598ea66a84ec2fe2cb1ea395aea5b72214f4210b2509a3c42633d2dfd080a",
+      "host": "keybase.io",
+      "kid": "0120af383598ea66a84ec2fe2cb1ea395aea5b72214f4210b2509a3c42633d2dfd080a",
+      "uid": "d7f03d9f3633d2cbb1f2be3734f6fa19",
+      "username": "ejuc98"
+    },
+    "merkle_root": {
+      "ctime": 1574304561,
+      "hash": "7ca92f5cda234f6d6a2be5f349f0806e334bf3b0105f4a1c8bf031c1c2f00fc32fff3aac9f0712e655a32d52e28ee2be6f7b04f91edd42d4c998f06883c4b1dc",
+      "hash_meta": "9912496916b9af2ed2863d52bd21ab62613e51447fbb04f4ec2cec29ec22498f",
+      "seqno": 10383473
+    },
+    "service": {
+      "entropy": "b/kJbGYWCqkbFEjjDj4PkyYC",
+      "name": "github",
+      "username": "ejuc98btc"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574304576,
+  "expire_in": 504576000,
+  "prev": "76995256b7db9360095d15b24c7c5e55d4cf09834c8d6de3e699bc127b184d36",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASCvODWY6maoTsL-LLHqOVrqW3IhT0IQslCaPEJjPS39CAo](https://keybase.io/ejuc98), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrzg1mOpmqE7C/iyx6jla6ltyIU9CELJQmjxCYz0t/QgKp3BheWxvYWTESpcCC8QgdplSVrfbk2AJXRWyTHxeVdTPCYNMjW3j5pm8EnsYTTbEIG7z3o89JFuyI//WmRSybfqpASu9zQMU12ILYYJlkEgMAgHCo3NpZ8RAAlanbUNs7wGQBmuLITwRrJh2Gex6Q7mlRHKorNCg6xkS+IdAwXl+IauKnchP4HKTueCSKvATAPWd0tZRsd9YBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC4EG/8zDiNSs2azDO+8gPFQrdWyUYdiNY0rNtmG7F2fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ejuc98
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ejuc98
+```
